@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d0d5af8-2e92-4a55-8088-564b88c0543f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQwA7z9OnELlQ3Qf31dIbkEWLh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../E-cafe-Restaurant-Management-System--master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CodeImplementionRMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeImplementionRMS" />
+      <module name="RestaurantManagementSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeImplementionRMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d0d5af8-2e92-4a55-8088-564b88c0543f" name="Default Changelist" comment="" />
+      <created>1586680978263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586680978263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="43" key="#Project_Structure" timestamp="1586681219630">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1586681219630" />
+    <state x="363" y="114" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587304949786">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="114" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1587304949786" />
+    <state x="363" y="119" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1586960076829" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1586878917180">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586878917180" />
+    <state width="1323" height="441" key="GridCell.Tab.0.bottom" timestamp="1586967152221">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586967152221" />
+    <state width="1323" height="441" key="GridCell.Tab.0.center" timestamp="1586967152221">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586967152221" />
+    <state width="1323" height="441" key="GridCell.Tab.0.left" timestamp="1586967152221">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586967152221" />
+    <state width="1323" height="441" key="GridCell.Tab.0.right" timestamp="1586967152221">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586967152221" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1586955400436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586955400436" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1586955400436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1586955400436" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1586955400436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1586955400436" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1586955400436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1586955400436" />
+    <state x="339" y="172" width="672" height="677" key="run.anything.popup" timestamp="1586960542304">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="11" y="161" key="run.anything.popup.inPresentationMode" timestamp="1586767104854">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="11" y="161" key="run.anything.popup.inPresentationMode/0.0.1366.768@0.0.1366.768" timestamp="1586767104854" />
+    <state x="339" y="172" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1586960542304" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586949296874">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1586949296874" />
+  </component>
+</project>
